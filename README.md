@@ -1,7 +1,13 @@
 # Bem Vindo(a) ao Perfil de Arrigoni
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Arrigoni&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Gustavo-Arrigoni&layout=compact&theme=dark)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Gustavo-Arrigoni&show_icons=true&theme=dark"
+  height="180"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavo-Arrigoni&layout=compact&theme=dark"
+  height="180"
+/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arrigoni-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" ">
